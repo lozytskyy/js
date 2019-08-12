@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+#firstBlock{
+    width: 456px;
+    height: 456px;
+    /*border: 1px solid red;*/
+    background-color: lightcoral;
+    float: left;
+    margin-right: 304px;
+}
+
+#secondBlock{
+    width: 456px;
+    height: 456px;
+    /*border: 1px solid red;*/
+    background-color: lightcoral;
+    float: left;
+   /* margin-right: 304px;*/
+}
+
+.block{
+    width: 150px;
+    height: 150px;
+    border: 1px solid white;
+    float: left;
+}
+
+.block1{
+    width: 150px;
+    height: 150px;
+    background-color: brown;
+    border: 1px solid yellow;
+    float: left;
+}
+
+.info{
+    width: 100%;
+}
+
+

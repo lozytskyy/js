@@ -1,0 +1,49 @@
+@charset "utf-8";
+body {
+ font: 14pt Arial, Helvetica, sans-serif;
+ margin: 15;
+ color: black;
+}
+
+
+#d1 {
+  background: red;
+height: 80px;
+width: 280px;
+
+}
+
+
+
+/*#two {
+    background: #F6EDFC;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+.one table, th, td {
+   border: 1px solid black;
+}
+
+
+.one tr:nth-child(2n+1) {
+    background: white;
+}
+
+.one td:nth-child(2n+1) {
+    background: gray;
+}
+
+
+tr {
+            width: 40px;
+        height: 75px;
+}
+
+td {
+	text-align: center;
+        width: 40px;
+        height: 75px;
+}*/
